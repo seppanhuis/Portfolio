@@ -6,8 +6,8 @@ export const Projects = () => {
             description: "Voor een schoolopdracht heb ik een applicatie gebouwd waarmee gebruikers hun eigen Pokémon-teams kunnen samenstellen en beheren.",
             tech: ["React", "JavaScript", "CSS", "HTML", "API", "Git"],
             image: "⚡",
-            link: "https://seppanhuis.github.io/",
-            github: "https://github.com/seppanhuis/seppanhuis.github.io",
+            link: "https://seppanhuis.github.io/pokemon/",
+            github: "https://github.com/seppanhuis/pokemon/tree/main",
             hosted: true
         },
         {
