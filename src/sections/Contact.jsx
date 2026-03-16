@@ -46,7 +46,7 @@ export const Contact = () => {
 
     return (
         <section id="contact" className="py-24 px-6 bg-surface">
-            <div className="container mx-auto max-w-6xl">
+            <div className="container mx-auto max-w-7xl">
                 {/* Section Header */}
                 <div className="text-center mb-16">
                     <h2 className="text-4xl md:text-5xl font-bold mb-4">
@@ -79,9 +79,9 @@ export const Contact = () => {
                                         <div className="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center text-primary group-hover:scale-110 transition-transform">
                                             {method.icon}
                                         </div>
-                                        <div>
+                                        <div className="min-w-0">
                                             <p className="text-sm text-muted-foreground">{method.title}</p>
-                                            <p className="font-medium">{method.value}</p>
+                                            <p className="font-medium break-words">{method.value}</p>
                                         </div>
                                     </a>
                                 ))}

@@ -2,7 +2,7 @@
 export const Hero = () => {
     return (
         <section id="hero" className="min-h-screen flex items-center justify-center px-6 pt-20">
-            <div className="container mx-auto max-w-6xl">
+            <div className="container mx-auto max-w-7xl">
                 <div className="flex flex-col items-center text-center space-y-8">
         
                     {/* Name & Title */}
