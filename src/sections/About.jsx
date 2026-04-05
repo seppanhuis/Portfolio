@@ -1,8 +1,8 @@
 
 export const About = () => {
     const skills = [
-        { category: "Frontend", items: ["React", "JavaScript", "Tailwind CSS", "Bootstrap", "HTML", "CSS"] },
-        { category: "Backend", items: ["PHP", "Laravel", "MySQL", "API's"] },
+        { category: "Front-end", items: ["React", "JavaScript", "Tailwind CSS", "Bootstrap", "HTML", "CSS"] },
+        { category: "Back-end", items: ["PHP", "Laravel", "MySQL", "API's"] },
         { category: "Tools", items: ["Git", "Figma", "VS Code"] },
     ];
 
@@ -30,7 +30,7 @@ export const About = () => {
                                 elegante digitale ervaringen.
                             </p>
                             <p className="text-muted-foreground leading-relaxed">
-                                Mijn focus ligt op het bouwen van schaalbare, performante applicaties
+                                Mijn focus ligt op het bouwen van schaalbare, goed werkende applicaties
                                 die echte waarde toevoegen voor gebruikers. Ik ben altijd op zoek naar
                                 nieuwe uitdagingen en leer graag nieuwe technologieën.
                             </p>

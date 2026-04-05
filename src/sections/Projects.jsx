@@ -2,7 +2,7 @@
 export const Projects = () => {
     const projects = [
         {
-            title: "Pokemon team manager",
+            title: "Pokémon team manager",
             description: "Voor een schoolopdracht heb ik een applicatie gebouwd waarmee gebruikers hun eigen Pokémon-teams kunnen samenstellen en beheren.",
             tech: ["React", "JavaScript", "CSS", "HTML", "API", "Git"],
             image: "⚡",
@@ -11,8 +11,8 @@ export const Projects = () => {
             hosted: true
         },
         {
-            title: "Simple Todo App",
-            description: "Voor een schoolopdracht heb ik een simple todo app gebouwd waarmee gebruikers hun taken kunnen beheren en in catogorien kunnen verdelen.",
+            title: "To-do App",
+            description: "Voor een schoolopdracht heb ik een eenvoudige to-do app gebouwd waarmee gebruikers hun taken kunnen beheren en in categoriën kunnen verdelen.",
             tech: ["Laravel", "PHP", "MySQL", "Tailwind CSS", "Git"],
             image: "📝",
             link: "#",
@@ -21,7 +21,7 @@ export const Projects = () => {
         },
         {
             title: "Smile Pro tandarts website",
-            description: "Voor een schoolproject heb ik een website gebouwd voor een fictieve tandartspraktijk genaamd Smile Pro. Het gaat voorval om de crud functionalteit en ik heb het medewerker gedeelte gebouwd.",
+            description: "Voor een schoolproject heb ik een website gebouwd voor een fictieve tandartspraktijk genaamd Smile Pro. Het gaat vooral om de CRUD functionalteit en ik heb het medewerker gedeelte gebouwd.",
             tech: ["Laravel", "PHP", "MySQL", "Tailwind CSS", "Git", "Teams"],
             image: "🦷",
             link: "#",

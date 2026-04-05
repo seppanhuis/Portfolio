@@ -5,10 +5,17 @@ export const Experience = () => {
 
     const experiences = [
         {
+            period: "2020 - 2024",
+            role: "MAVO",
+            company: "Minke College",
+            description: "Tijdens mijn MAVO-opleiding heb ik een brede basis ontwikkeld in algemene vakken zoals taal, rekenen en maatschappijleer.",
+            skills: ["Nederlands", "Engels", "Wiskunde", "Economie", "Biologie", "NaSk", "Maatschappijkunde"]
+        },
+        {
             period: "2024 - Heden",
             role: "Student Software Development",
             company: "MBO Utrecht",
-            description: "Leidde de ontwikkeling van een enterprise SaaS platform met 10.000+ gebruikers. Implementeerde microservices architectuur en optimaliseerde database performance met 60%.",
+            description: "Tijdens mijn opleiding Software Development werk ik aan praktijkgerichte projecten waarin ik webapplicaties bouw, databases ontwerp en mijn programmeervaardigheden in de praktijk toepas.",
             skills: ["React", "Laravel", "MySQL", "PHP", "JS", "HTML", "CSS", "Git"]
         }
     ];

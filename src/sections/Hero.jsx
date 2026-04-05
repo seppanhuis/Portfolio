@@ -8,10 +8,10 @@ export const Hero = () => {
                     {/* Name & Title */}
                     <div className="space-y-4">
                         <h1 className="text-5xl md:text-7xl font-bold tracking-tight">
-                            Sep <span className="text-primary">In 't Panhuis</span>
+                            Sep <span className="text-primary">in 't Panhuis</span>
                         </h1>
                         <p className="text-2xl md:text-3xl text-muted-foreground font-light">
-                            Full Stack Developer & Designer
+                            Full Stack Developer
                         </p>
                     </div>
                     
